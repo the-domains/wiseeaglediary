@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[WiseEagleDiary]]></title>
         <description><![CDATA[WiseEagleDiary]]></description>
-        <link>https://thegrid.ai/wiseeaglediary/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 13:39:54 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/wiseeaglediary/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sinfully Yours</p>]]></description>
-            <link>https://thegrid.ai/wiseeaglediary/de62adbc-4794-472d-82cc-124a58a2b43e/index.html</link>
-            <guid isPermaLink="false">de62adbc-4794-472d-82cc-124a58a2b43e</guid>
-            <pubDate>Sun, 03 Jan 2016 13:39:45 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sun, 03 Jan 2016 13:34:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Should I wait for real break?]]></title>
             <description><![CDATA[<article><h1>Should I wait for real break?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acbb43dfe2435a43da303be1f31b7f7b4510c5f6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wiseeaglediary/93ce5323-b418-4ac8-85cf-348df28092cf/index.html</link>
+            <link>undefined93ce5323-b418-4ac8-85cf-348df28092cf/index.html</link>
             <guid isPermaLink="false">93ce5323-b418-4ac8-85cf-348df28092cf</guid>
             <pubDate>Sun, 03 Jan 2016 13:34:48 GMT</pubDate>
         </item>
