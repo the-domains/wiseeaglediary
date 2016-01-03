@@ -1,7 +1,7 @@
 name: WiseEagleDiary
 favicon: null
-layout_spectrum: 0.9953468320891261
-typography_spectrum: 0.044227548642084
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.3090646609198302
+  brandStrength: 0.5
   lightness: 0.31064510392025113
-  saturation: 0.3821647909935564
+  saturation: 0.5
   rhythmicContrast: 0.23000514646992087
 purpose: []
